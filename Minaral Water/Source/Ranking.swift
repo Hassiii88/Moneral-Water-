@@ -87,7 +87,7 @@ struct Ranking: View {
                         .frame(maxWidth: .infinity, alignment: .trailing)
                 }
                 .padding()
-                .background(Color.cyan.opacity(0.2))
+                .background(Color.cyan.opacity(0.1))
                 
                 Divider()
                     .background(.black)
